@@ -6,9 +6,9 @@ sections:
     image: images/hero.png
     image_alt: App preview
     title: The social network that lets you Reach more for Less
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      Reachfeed is a social-networking platform that leads the creator community
+      to organic grow with the help of there content.
     actions:
       - label: Learn More
         url: /features
