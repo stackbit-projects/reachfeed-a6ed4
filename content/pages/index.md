@@ -10,7 +10,7 @@ sections:
       Reachfeed is a social-networking platform that leads the creator community
       to organic grow with the help of there content.
     actions:
-      - label: Preregister Now!!
+      - label: Preregister Now
         url: /features
         style: primary
   - section_id: features
